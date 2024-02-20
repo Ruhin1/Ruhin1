@@ -14,7 +14,7 @@ I'm Tonmoy, Full Stack Web Application Developer.
 </p>
 <p>
 <span>♥️ I enjoy learning and sharing knowledge.</span> <br>
-<span>💻 Most used line of code console.log("hello world").</span> <br>
+<span>💻 Most used line of code dd($data).</span> <br>
 <span>🤔 I’m looking for people who can help me with Outstanding Video ideas and executions.</span> <br>
 <span>📧 How to reach me: mdruhinahmed93@gmail.com.</span> <br>
 <span>🔭 I’m currently working on PHP Laravel, Javascript React, Html Css bootstrap.</span> <br>
